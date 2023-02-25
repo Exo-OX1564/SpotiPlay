@@ -1,5 +1,5 @@
 # SpotiPlay
-view your current song information from spotify on your console
+View your current song information from spotify on your console.
 
 -------
 Setting it up is pretty simple:
