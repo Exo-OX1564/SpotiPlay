@@ -32,7 +32,7 @@ def get_current_track(access_token):
   }
   try:
     return current_track_info
-  except Exception as exc:
+  except:
     print("No current track playing.")
   
 def main():
