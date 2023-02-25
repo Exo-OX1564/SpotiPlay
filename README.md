@@ -4,6 +4,7 @@ View your current song information from spotify on your console.
 -------
 Setting it up is pretty simple:
  - Fill out your spotify access token by visiting: https://developer.spotify.com/console/player/ and clicking 'GET TOKEN', sign in the copy your token and paste it.
+ - Fill it out on the `SPOTIFY_ACCESS_TOKEN = ''` field on the main file, be careful to not show this to anyone else.
  - Your token is valuable as with any other api key, use it carefully.
 
 ---
